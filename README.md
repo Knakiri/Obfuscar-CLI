@@ -1,2 +1,3 @@
 # Obfuscar-CLI
-#Obfuscar simplified
+DRAG & DROP THE FILE YOU WANT TO OBFUSCATE
+
