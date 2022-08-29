@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\bin\Debug\ObfuscarCLI.exe.config
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\bin\Debug\ObfuscarCLI.exe
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\bin\Debug\ObfuscarCLI.pdb
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\obj\Debug\ObfuscarCLI.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\obj\Debug\ObfuscarCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\obj\Debug\ObfuscarCLI.Properties.Resources.resources
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\obj\Debug\ObfuscarCLI.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\obj\Debug\ObfuscarCLI.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\obj\Debug\ObfuscarCLI.exe
+C:\Users\Ali\source\repos\ObfuscarCLI\ObfuscarCLI\obj\Debug\ObfuscarCLI.pdb

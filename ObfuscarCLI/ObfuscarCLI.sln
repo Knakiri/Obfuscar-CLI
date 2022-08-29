@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObfuscarCLI", "ObfuscarCLI\ObfuscarCLI.csproj", "{F348D14C-F6C2-4511-ADEA-3F6ADA8D3950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F348D14C-F6C2-4511-ADEA-3F6ADA8D3950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F348D14C-F6C2-4511-ADEA-3F6ADA8D3950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F348D14C-F6C2-4511-ADEA-3F6ADA8D3950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F348D14C-F6C2-4511-ADEA-3F6ADA8D3950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {041706CE-CA52-43B8-AEC4-88237563E4E2}
+	EndGlobalSection
+EndGlobal
